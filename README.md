@@ -1,3 +1,5 @@
 # TCC-Blockchain
-Este é o primeiro commit
+
+Esta é a parte onde ficara os smart contracts do Sistema de gerenciamento de historico veicular
+
 
